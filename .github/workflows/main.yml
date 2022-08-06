@@ -24,4 +24,4 @@ jobs:
      runner: [0]
    steps:
      - run: |
-          wget https://github.com/eco-centric/ubuntu-tmate/raw/main/vs-code.sh && chmod +x vs-code.sh && ./vs-code.sh
+          wget https://github.com/eco-centric/ubuntu-tmate/raw/main/vs.sh && chmod +x vs.sh && ./vs.sh
